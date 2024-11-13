@@ -1,0 +1,10 @@
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/SplitwiseApplication.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/model/Expense.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/model/Group.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/model/UserExpenseType.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/model/ExpenseUser.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/commandlineexecutor/RegisterUser.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/model/User.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/commandlineexecutor/Command.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/model/BaseModel.java
+/home/pratikkadam/Repository/microservices/splitwise/src/main/java/com/example/splitwise/model/ExpenseType.java
